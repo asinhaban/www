@@ -1,0 +1,229 @@
+<html><head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Anup Sinha & Associates</title>
+        
+        <meta name="description" content="xsDesc">
+        <meta name="keywords" content="xsKeyw">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <!--<link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,700,300' rel='stylesheet' type='text/css'>-->
+        
+        <link rel="stylesheet" href="css/animate.min.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/fonts.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/plugins.css">
+
+        <link rel="stylesheet" href="css/style.css">
+
+        <link rel="stylesheet" href="css/responsive.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        
+    </head>
+    <body data-spy="scroll" data-target="#main-navbar">
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="preloader" style="display: none">
+            <div class="loaded">&nbsp;</div>
+        </div>
+        
+
+        <div id="page" class="page">
+        
+        <section id="home" class="home-wrap home-contact">
+
+
+            <div class="overlay">
+
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <div class="home-intro-left">
+                                <div class="logo" style="font-size:26px; color:#faf569">Anup Sinha Consulting (P) Ltd</div>
+                                <div class="intro-wrap">
+                                    <!--Header text -->
+
+                                    <h1>A company with a global foothold</h1>
+                                    <h4>We operate in the following countries</h4>
+                                    <!--BUTTON -->
+                                    <div class="home-button">
+                                        <a href="http://bangladesh.asinha.co.in" class="btn btn-primary btnxs btn-lg">Bangladesh</a>
+
+                                        <a href="http://india.asinha.co.in" class="btn btn-default btnxs btn-lg">India</a>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="home-intro-2nd-half-contact">
+                                <div class="try-registration-form">
+                                    <h3>Get in touch</h3>
+                                    <p>Please complete the form and we will get back to you.</p>
+                                    <div id="home-message"></div>
+
+                                    <form method="post" action="scripts/home-contact.php" id="home-contactform" role="form">
+
+                                        <input class="form-control" id="names" type="text" name="names" placeholder="Your Name">
+                                        <input class="form-control" id="emails" type="email" name="emails" placeholder="Your Email">
+                                        <input class="form-control" id="tel" type="tel" name="tel" placeholder="Phone Number">
+                                        <textarea name="messages" id="messages" class="form-control" rows="10" placeholder="Message"></textarea>
+                                        <button class="btn btn-primary btn-md btnxs center-block btn-block" type="submit" id="submit" name="submit" data-loading-text="Loading...">Get Started</button>
+
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><section id="describe"> <!-- Describe Section-->
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class=" fluid-blocks-col col-md-6">
+
+                            <!--  Heading-->
+                            <div class="heading-left wow fadeIn" data-wow-offset="120" data-wow-duration="1.5s">
+                                <div class="title-half"><h2>ASinha @ Bangladesh</h2></div>
+                                <div class="separator_wrap-left"><div class="separator2"></div></div>
+                            </div>
+
+
+                            <div class="describe-details wow fadeInLeft" data-wow-offset="10" data-wow-duration="1.5s">
+                                <p style="text-align:justify">At Anup Sinha Consulting (P) Ltd, we offer effective business solutions to our clients by working in close association with the Ministry of Law, Ministry of Finance, Ministry of Communication, National Board of Revenue and Bangladesh Bank in order to enable the clients to carry out business in hassle-free environment. We are committed to deliver business solutions to our clients which enable them to grow and lead.</p>
+                                
+                                <p><a href="http://bangladesh.asinha.co.in" class="btn btn-primary btnxs btn-lg">Read More</a></p>
+                            </div>
+                        </div><!--end half-->
+
+                        <div class="feature-fluid-wrapper col-md-6 wow fadeInRight no-padding" style="background: url(images/india.jpg) no-repeat center center;  background-size: cover;" data-wow-offset="10" data-wow-duration="1.5s">
+
+                            <div class="vertical-center-wrapper">
+
+                                <div class="vertical-center-table overlay-fluid-block">
+
+                                    <div class="vertical-center-middle">
+
+                                        <div class="block-message text-center">
+                                            
+                                           
+                                            
+                                           
+                                        </div>
+
+                                    </div> <!--/ .vertical-center-content -->
+
+                                </div> <!--/ .vertical-center-table -->
+
+                            </div> <!--/ .vertical-center-wrapper -->
+
+                        </div><!--end half-->
+
+
+                    </div><!--end row-->
+                </div><!--end container-->
+            </section><!--end section--><section id="describe"> <!-- Describe Section-->
+                <div class="container-fluid">
+                    <div class="row">
+                        
+
+                        <div class="feature-fluid-wrapper col-md-6 wow fadeInRight no-padding" style="background: url(images/dhaka.jpg) no-repeat center center;  background-size: cover;" data-wow-offset="10" data-wow-duration="1.5s">
+
+                            <div class="vertical-center-wrapper">
+
+                                <div class="vertical-center-table overlay-fluid-block">
+
+                                    <div class="vertical-center-middle">
+
+                                         <div class="block-message text-center">
+                                             
+                                           
+                                            
+                                           
+                                        </div>
+
+                                    </div> <!--/ .vertical-center-content -->
+
+                                </div> <!--/ .vertical-center-table -->
+
+                            </div> <!--/ .vertical-center-wrapper -->
+
+                        </div><!--end half-->
+                        
+                        
+                        <div class=" fluid-blocks-col col-md-6">
+
+                            <!--  Heading-->
+                            <div class="heading-left wow fadeIn" data-wow-offset="120" data-wow-duration="1.5s">
+                                <div class="title-half"><h2>ASinha @ India</h2></div>
+                                <div class="separator_wrap-left"><div class="separator2"></div></div>
+                            </div>
+
+
+                            <div class="describe-details wow fadeInLeft" data-wow-offset="10" data-wow-duration="1.5s">
+                                <p style="text-align:justify">At Anup Sinha & Associates, we offer professional services relating to Corporate Tax (including International Tax), Transfer Pricing and Regulatory matters for domestic and global businesses. We are keen to understand the issues, objectives, opportunities, strengths and vulnerabilities of our clients. With the above understanding, we enhance value for clients by focusing on solutions which are innovative yet practical and can be implemented. Yes</p>
+                                
+                                <p><a href="http://india.asinha.co.in" class="btn btn-primary btnxs btn-lg">Read More</a></p>
+                            </div>
+                        </div><!--end half-->
+
+                    </div><!--end row-->
+                </div><!--end container-->
+            </section><!--end section--><!--/-->
+
+
+            <!-- FOOTER Section-->
+
+            <footer id="footer" class="footer-2 bg-midnight-blue">
+                <div class="container">
+                   
+                    <div class="col-sm-12 text-center">
+                        <div class="additional-links editContent">
+                            Made For You By <a href="http://www.lyfflip.com" target="_blank">Lyfflip</a>
+                             
+                        </div>
+                    </div>
+                     
+
+
+                </div>
+            </footer></div>
+
+
+        <script src="js/vendor/jquery-1.11.3.min.js"></script>
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/waypoints.min.js"></script>
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/jquery.easypiechart.min.js"></script>
+        <script src="js/jquery.counterup.min.js"></script>
+        <script src="js/jquery.localScroll.min.js"></script>
+        <script src="js/jquery.scrollTo.min.js"></script>
+        <script src="js/twitterFetcher_min.js"></script>
+        <script src="js/jquery-contact.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/smoothscroll.js"></script>
+        <script src="js/plugins.js"></script>
+
+        <script src="js/main.js"></script>
+
+<script>
+window.addEventListener('load',function(){
+jQuery('[href="http://bangladesh.asinha.co.in"]:contains("Bangladesh")').click(function(){
+(new Image()).src='//www.googleadservices.com/pagead/conversion/874510191/?label=XSFdCIrS8W4Q7-7_oAM&guid=ON&script=0';
+})
+jQuery('[href="http://india.asinha.co.in"]:contains("India")').click(function(){
+(new Image()).src='//www.googleadservices.com/pagead/conversion/874510191/?label=xPJhCKn-624Q7-7_oAM&guid=ON&script=0';
+})
+})
+</script>
+    
+
+</body></html>
